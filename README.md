@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+### School Student with assigned Lesson relational mappings developed using [NestJS](https://github.com/nestjs/nest), [GraphQL](https://graphql.org/) and Apollo with [MongoDB](https://www.mongodb.com/) Database.
 
 ## Installation
 
